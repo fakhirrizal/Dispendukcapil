@@ -1,0 +1,4 @@
+[26-Jan-2020 16:59:20 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/aplikasi/public_html/dispendukcapil.aplikasiku.online/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[27-Mar-2020 22:10:10 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/aplikasi/public_html/dispendukcapil.aplikasiku.online/system/libraries/Session/drivers/Session_files_driver.php on line 420
+[05-May-2020 15:11:38 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aplikasi/public_html/dispendukcapil.aplikasiku.online/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[06-May-2020 22:13:00 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aplikasi/public_html/dispendukcapil.aplikasiku.online/system/libraries/Session/drivers/Session_files_driver.php on line 212
